@@ -1,0 +1,3 @@
+type,calendar skin
+name,Terminal Calendar
+directory,terminal_calendar_yy

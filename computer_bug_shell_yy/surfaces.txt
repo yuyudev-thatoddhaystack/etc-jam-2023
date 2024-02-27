@@ -1,0 +1,19 @@
+descript
+{
+	version,1
+}
+
+surface.append0
+{
+	animation100.interval,bind
+	animation100.pattern0,add,100,0,0,0
+	
+	animation101.interval,bind
+	animation101.pattern0,add,101,0,0,0
+
+	animation102.interval,bind
+	animation102.pattern0,add,102,0,0,0
+
+	animation103.interval,bind
+	animation103.pattern0,add,103,0,0,0
+}

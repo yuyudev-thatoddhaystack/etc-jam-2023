@@ -1,0 +1,54 @@
+﻿seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
+
+charset,UTF-8
+type,shell
+name,Computer Bug
+craftman, Vita/yuyudev
+craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
+homeurl,
+
+sakura.bindoption100.group,Accessories
+sakura.bindgroup100.name,Accessories,Party Hat
+sakura.bindgroup101.name,Accessories,Antenna
+sakura.bindgroup102.name,Accessories,Halo and Wings
+sakura.bindgroup103.name,Accessories,Bow
+
+sakura.menuitem0,100
+sakura.menuitem1,101
+sakura.menuitem2,102
+sakura.menuitem3,103
+
+//Menu stuff
+
+//Text color for options that you're not hovering over
+menu.background.font.color.r,122
+menu.background.font.color.g,232
+menu.background.font.color.b,101
+
+//Text color for options that you're hovering over
+menu.foreground.font.color.r,015
+menu.foreground.font.color.g,018
+menu.foreground.font.color.b,015
+
+//Text color for options that are disabled/grayed out
+menu.disable.font.color.r,65
+menu.disable.font.color.g,92
+menu.disable.font.color.b,67
+
+//Color of the separator bars
+menu.separator.color.r,122
+menu.separator.color.g,232
+menu.separator.color.b,101
+
+menu.frame.color.r,122
+menu.frame.color.g,232
+menu.frame.color.b,101
+
+menu.background.alignment,righttop
+menu.foreground.alignment,righttop
+menu.sidebar.alignment,bottom
+
+menu.background.bitmap.filename,menu_background.png
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.sidebar.bitmap.filename,menu_sidebar.png

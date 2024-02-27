@@ -1,0 +1,78 @@
+charset,UTF-8
+
+//font used is "computer says no" - https://fontstruct.com/fontstructions/download/954016
+
+
+//——— Basic information ———
+name, Terminal Calendar
+craftman, Vita/yuyudev
+craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
+
+//——— Table ———
+table.left,6
+table.top,100
+table.right,464
+table.bottom,289
+
+
+//——— Numbers ———
+day.pos.x,20
+day.pos.y,5
+
+day.spacing,0
+saturday.spacing,0
+holiday.spacing,0
+
+year.pos.x,402
+year.pos.y,45
+
+year.spacing,0
+
+
+//——— Day markers ———
+today.pos.x,13
+today.pos.y,8
+
+current.pos.x,0
+current.pos.y,0
+
+
+//——— Event markers ———
+icon.left,12
+icon.top,24
+icon.right,55
+icon.bottom,41
+
+icon.width,7
+icon.height,7
+
+
+//——— Month names ———
+month.pos.x,15
+month.pos.y,45
+
+
+//——— Next & previous month buttons ———
+prev.left,210
+prev.top,45
+prev.right,226
+prev.bottom,65
+
+next.left,243
+next.top,45
+next.right,261
+next.bottom,65
+
+
+//——— Filenames ———
+day.filename,numbers/num
+saturday.filename,numbers/num
+holiday.filename,numbers/num
+
+year.filename,numbers/num
+month.filename,months/month
+
+today.filename,today
+current.filename,current
+
+background.filename,bg

@@ -1,0 +1,5 @@
+charset,UTF-8
+type,balloon
+name,Terminal Balloon
+directory,terminal_balloon_yy
+
