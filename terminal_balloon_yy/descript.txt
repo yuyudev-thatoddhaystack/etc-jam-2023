@@ -37,23 +37,30 @@ font.shadowcolor.b,33
 
 font.shadowstyle,outline
 
-disable.font.color.r,82
-disable.font.color.g,192
-disable.font.color.b,61
+disable.font.color.r,42
+disable.font.color.g,132
+disable.font.color.b,21
 
-//anchor.font.color.r,222
-//anchor.font.color.g,255
-//anchor.font.color.b,201
+anchor.font.color.r,015
+anchor.font.color.g,018
+anchor.font.color.b,015
 anchor.style,square
 anchor.blendmethod,none
 
-anchor.notselect.font.color.r,255
-anchor.notselect.font.color.g,255
-anchor.notselect.font.color.b,255
+anchor.font.shadowcolor.r,122
+anchor.font.shadowcolor.g,232
+anchor.font.shadowcolor.b,101
+anchor.shadowstyle,outline
 
-anchor.visited.font.color.r,182
+anchor.notselect.font.color.r,242
+anchor.notselect.font.color.g,255
+anchor.notselect.font.color.b,211
+anchor.notselect.font.shadowstyle,outline
+
+anchor.visited.font.color.r,242
 anchor.visited.font.color.g,255
-anchor.visited.font.color.b,151
+anchor.visited.font.color.b,211
+anchor.visited.font.shadowstyle,outline
 
 anchor.pen.color.r,122
 anchor.pen.color.g,232
@@ -62,23 +69,6 @@ anchor.pen.color.b,101
 anchor.brush.color.r,122
 anchor.brush.color.g,232
 anchor.brush.color.b,101
-
-anchor.font.color.r,182
-anchor.font.color.g,255
-anchor.font.color.b,151
-
-//anchor.pen.color.r,122
-//anchor.pen.color.g,232
-//anchor.pen.color.b,101
-
-//anchor.brush.color.r,122
-//anchor.brush.color.g,232
-//anchor.brush.color.b,101
-
-anchor.font.shadowcolor.r,015
-anchor.font.shadowcolor.g,018
-anchor.font.shadowcolor.b,015
-
 
 
 cursor.font.color.r,015
